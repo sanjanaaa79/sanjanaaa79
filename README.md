@@ -40,4 +40,12 @@
   </a>
 </p>
 
+<br>
+
+## Contribution Activity
+
+<p align="center">
+  <img src="./contrib-heatmap.svg" width="100%" alt="Contribution Heatmap"/>
+</p>
+
 </div>
