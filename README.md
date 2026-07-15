@@ -22,14 +22,22 @@
 
 **Student · Machine Learning · Software Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjana-mukherjee-8a3a94221/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjana-mukherjee-8a3a94221/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjanaaa79)
+  <a href="https://github.com/sanjanaaa79">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sanjana79/)
+  <a href="https://leetcode.com/u/sanjana79/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 
-<br>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Contribution Graph"/>
+  <a href="mailto:sanjanamukherjee2789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
