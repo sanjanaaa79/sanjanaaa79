@@ -1,22 +1,22 @@
 {
   "username": "sanjanaaa79",
-  "generated_at": "2026-10-09T13:17:21Z",
+  "generated_at": "2026-10-10T12:32:14Z",
   "range": {
     "start": "2025-10-05",
+    "end": "2026-10-10"
+  },
+  "total_contributions": 136,
+  "active_days": 94,
+  "avg_per_active_day": 1.4,
+  "current_streak": {
+    "length": 87,
+    "start": "2026-07-15",
     "end": "2026-10-09"
   },
-  "total_contributions": 135,
-  "active_days": 93,
-  "avg_per_active_day": 1.5,
-  "current_streak": {
-    "length": 86,
-    "start": "2026-07-15",
-    "end": "2026-10-08"
-  },
   "longest_streak": {
-    "length": 86,
+    "length": 87,
     "start": "2026-07-15",
-    "end": "2026-10-08"
+    "end": "2026-10-09"
   },
   "best_day": {
     "date": "2026-05-02",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-10",
-      "total": 11
+      "total": 12
     }
   ],
   "days": [
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-10-09",
+      "count": 1
+    },
+    {
+      "date": "2026-10-10",
       "count": 0
     }
   ]
